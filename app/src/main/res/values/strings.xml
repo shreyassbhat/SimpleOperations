@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SimpleOperations</string>
+    <string name="Button">Toast</string>
+    <string name="here_is_a_random_number_from_0_and_1d">Here is a Random Number From 0 and %1d</string>
+
+</resources>
